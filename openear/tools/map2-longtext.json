@@ -1,0 +1,82 @@
+{
+  "In this exercise you will be given a series of chords (cadence) to establish a tonal center. Then a note (or a series of notes) will be played and you will be asked to find the scale degree of the note.":
+    "这个练习会先给你一串和弦（终止式）来确立调性中心，然后播放一个音（或几个音），让你找出它是哪个音级。",
+  "In this exercise you will be given a series of chords (cadence) to establish a tonal center. Then a chord would be played, and you will be asked to pick the roman analysis (degree) of the chord in the context of the key.":
+    "这个练习会先给你一串和弦（终止式）来确立调性中心，然后弹一个和弦，让你根据调内语境选出它的罗马数字级数。",
+  "If you're just starting out, it's better to practice on just a few scale degrees. Starting from Do, Re and Mi is recommended.":
+    "刚开始练时，最好只选几个音级。建议先从 Do、Re、Mi 这三个入手。",
+  "Click here to learn more": "点这里看详细说明",
+  "Tip!": "提示",
+  "In this exercise you will hear a triad in one of the three possible inversions, and you will need to identify what inversion it is.":
+    "这个练习会弹一个三和弦，它处于三种转位之一，你要听出是哪种转位。",
+  "Different notes can sound different with different chords underneath them. In this exercise you'll hear a chord with a high note emphasized, and you'll be prompted not only to identify the scale degree of the note (denoted with a solfege syllable), but also the chord degree. (Denoted with a number)":
+    "同一个音放在不同和弦上，听起来是不一样的。这个练习会弹一个和弦并突出其中的高音，你要同时说出高音的音级（用唱名表示）和它的和弦级数（用数字表示）。",
+  "Short click on an answer will toggle it. If an answer has a small rectangle at the bottom-right, you can long press it to select more options. When doing the exercise, a single click will select the answer displayed, and a long press and slide will enable you to select inner answers.":
+    "短按选项可以切换选中状态。如果选项右下角有个小方块，说明长按它能展开更多选项。做题时短按选中显示的那个选项，长按并滑动可以选到里面嵌套的选项。",
+  "in the settings, long press the triad with the bass note that you want, a popover will open, given you options to select many other chords with the same bass note. When doing the exercise, a short click will select the default chord, while long press and slide will enable you to select others.":
+    "在设置里长按带指定低音的三和弦会弹出浮层，里面能选到同样低音的其他和弦。做题时短按选默认和弦，长按并滑动可以选其他和弦。",
+  "When turned on, a spaced-repetition algorithm will be used to memorize the right answer. <br>This is the recommended mode when practicing to maximize learning efficiency. <br> Memory can be cleared by using the reset function from the dropdown menu. Note that updating settings could make some past questions irrelevant. If this occurs, use the reset function to rerase memory.":
+    "开启后用间隔重复算法来记住正确答案。<br>这是练效率最高的模式。<br>想清空记忆可以用下拉菜单里的重置功能。注意：改动设置可能让以前的题库不再适用，这时也用重置功能清掉记忆。",
+  "The roman numeral analysis method was invented mainly with classical music in mind, so it's not very good in conveying more complex chords that can be found in modern music like Jazz. To accommodate for this, this app uses a unique convention for notating extensions and inversions, that is borrowed from jazz.":
+    "罗马数字分析法最初是为古典音乐设计的，碰上爵士这类现代音乐里的复杂和弦就不够用了。为此本 App 采用了一套从爵士借来的记法来表示扩展音和转位。",
+  "Current answer will be displayed automatically. Use this together with \"resolution\" and \"move automatically to next question\" to create a \"listening mode\" where questions and resolutions will be played consecutively and help train your musical memory.":
+    "自动显示当前答案。把它和「解决」「答完自动进入下一题」一起开，就变成「聆听模式」：题目和解决连续播放，用来训练音乐记忆。",
+  "If a song analysis doesn't work with the selected chords the application will atempt to convert the analysis to the realtive Major scale. So if you selected I IV V vi, and a progression was analyzed as i bVI bVII, it will include it as vi V IV.":
+    "如果歌曲分析用不上你选的和弦，App 会尝试把它转换成关系大调来分析。比如你选了 I IV V vi，而某段进行被分析成 i bVI bVII，它就会以 vi V IV 的形式纳入。",
+  "Removes / simplifies chord extensions when they are not necessary for the harmonic understanding of the chord, which makes it easier to focus on the core harmonic progression, rather than on hard to hear subtleties. <br>":
+    "当和弦的扩展音对理解和声并不必要时，移除或简化它们，这样你能把注意力放在核心的和声进行上，而不是听不出来的细节。<br>",
+  "In this example a group of chords will be played to let your mind feel C as the \"root note\". Then the note D will be played, listen to its sense of tension, like it wants to resolve down to C.":
+    "这个例子里会先弹一组和弦，让你的耳朵把 C 当成「主音」。然后弹 D，听它的紧张感，像是想向下解决到 C。",
+  "\"Analyze by relative major tonic\" option in Common Chord Progressions exercise. Use this to analyze roman numerals in relative major no matter what's the progression \"real\" mode.":
+    "「常见和弦进行」练习新增「按关系大调主音分析」选项。开启后不管进行实际是什么调式，都按关系大调来标罗马数字。",
+  "In Chords in Real Songs, Mixolydian progressions will now be analyzed in the mixolydian tonic by default. This can be customized so every mode is analyzed in the relative major.":
+    "「真实歌曲的和弦」里，混合利底亚进行现在默认按混合利底亚主音分析。也可以改成所有调式都按关系大调分析。",
+  "Bass voice mode for Notes with Chord: Use it to learn how different bass notes sounds like under different chords. (essentially creating inversions or interesting suspensions)":
+    "「和弦中的音」新增低音声部模式：用来体会不同低音落在不同和弦下的听感（等于制造转位或有趣的挂留）。",
+  "\"Reveal answer after first mistake\" option - when checked, correct answer will be revealed after first mistake, so you don't have a \"second chance\" to find the right answer.":
+    "「第一次答错就显示答案」选项：勾上之后，第一次答错就会亮出正确答案，不再给你第二次机会。",
+  "When turned on, only chords that includes only notes from the same scale will be played. Note - some chord types (like the diminished 7ths) cannot be included in one scale.":
+    "开启后只会弹完全由同一音阶内音构成的和弦。注意：有些和弦类型（比如减七和弦）无法完全归入单个音阶。",
+  "Nested answers in chord progression exercise have been significantly changed. To select inner answers, hold the main answer and slide outwards to the required answer.":
+    "和弦进行练习里的嵌套选项有大改动：要选内层选项，按住主选项往外滑到目标选项。",
+  "Even if you got the answer wrong in the first attempt, the correct answer will be revealed. <br> Turn it off if you want a second chance to guess the correct answer":
+    "即使第一次答错也会显示正确答案。<br>想要第二次机会就把它关掉。",
+  "The available progressions are one of the most popular chord progressions in popular music. If you think there is an important progression we missed, feel free to":
+    "这里提供的都是流行音乐里最常用的一些和弦进行。如果你觉得漏了重要的进行，欢迎",
+  "<b>OpenEar now accepts donations!</b> <a href=\"https://www.paypal.com/donate/?hosted_button_id=2WH25GBMCJTJS\">Click here</a> to donate. Any sum is appreciated!":
+    "<b>OpenEar 现在接受捐助！</b><a href=\"https://www.paypal.com/donate/?hosted_button_id=2WH25GBMCJTJS\">点这里</a>捐助，多少都感谢！",
+  "Any other note will have a specific \"tension\" or \"sensation\" in relation to the tonic note. It might feel as if the note \"wants\" to resolve to the tonic note.":
+    "其他任何音相对主音都有特定的「张力」或「感觉」，听起来像是它「想要」解决到主音。",
+  "After getting a correct answer, the app will play a resolution of the note to the tonic, to enforce your memory and sensation of tension and release.":
+    "答对之后 App 会把该音解决到主音，帮你巩固记忆和「紧张—释放」的感觉。",
+  "We can also build a triad from the 5th degree to form a 'V' (five) chord. Notice how this chord holds tension, and wants to resolve to the tonic.":
+    "也可以从第 5 级叠出三和弦，构成「V」级和弦。注意它带着张力，想要解决到主音。",
+  "(i.e. diatonic) - This is recommended as it simulates a more musical scenario where chords are not random. You can change that in the settings.":
+    "（即调内）—— 推荐这样做，它更接近真实音乐场景，和弦不是随机的。可以在设置里改。",
+  "Starter with a large settings and gradually reducing can be a good way to train your ear to pick up individual notes being played harmonically":
+    "一开始选大范围、再逐步收窄，是训练耳朵捕捉和声里单个音的好办法。",
+  "Support for harmonic intervals in interval excercise. Can switch betwen melodic or harmonic in the configuration of the interval excercise.":
+    "音程练习支持和声音程，可以在音程练习的设置里在「旋律」和「和声」之间切换。",
+  "After correct answer was clicked the app will play a short segment of music to enforce your memory. <br>This is recommended for beginners.":
+    "点对答案后 App 会播放一小段音乐来巩固记忆。<br>推荐初学者打开。",
+  "Support for analyzing chord progressions in real songs in the relative major mode, turned out by default. (Android only at the moment)":
+    "真实歌曲的和弦进行支持按关系大调分析，默认开启。（目前仅 Android）",
+  "If you're just starting out, it's recommended to limit to amount of possible intervals. That can be done in the exercise settings (":
+    "刚开始练时，建议限制可选音程的数量，在练习设置里可以调（",
+  "C - all questions will be played in the key of C. <br> Random - a new key will be chosen randomly based on \"Change key\" settings":
+    "C —— 所有题目都在 C 调上。<br>随机 —— 根据「换调」设置随机选新调。",
+  "The first note of the scale - also called the tonic - is the \"home\" note. The note that will feel most \"resolves\" and at \"rest\".":
+    "音阶的第一个音（也叫主音）是「家」。它听起来最「落地」、最「安定」。",
+  "Chord functions progressions will attempt to put chords in sensible musical context, when using un-diatonic notes or inversions.":
+    "和弦功能进行会尽量把和弦放进合理的音乐语境里，即使你用了调外音或转位。",
+  "When set to a value larger then zero, the chord will be arpeggiated, making it easier to pick up individual notes from it. <br>":
+    "设成大于 0 的值时，和弦会以琶音形式弹出，更容易听清单个音。<br>",
+  "Because the chord sensation is dependant on the key, we use Roman numerals to indicate chords numbers in an arbitrary key.":
+    "因为和弦的感觉依赖调性，所以我们用罗马数字来表示任意调里的和弦级数。",
+  "In the key of D however, D is the tonic, so it assumes a sensation of rest. To avoid confusion between different keys,":
+    "但在 D 调里，D 是主音，听起来就安定。为了避免不同调之间混淆，",
+  "If you're finding it hard to accomplish, try sing the note and resolve it to the nearest tonic, either above or below.":
+    "如果觉得难，试着把那个音唱出来，然后解决到最近的（上方或下方）主音。",
+  "Make sure to select enough chords otherwise there might be no song to play that matches only those chords. <br><br>":
+    "记得多选几个和弦，否则可能找不到只用这些和弦的歌曲。<br><br>"
+}
