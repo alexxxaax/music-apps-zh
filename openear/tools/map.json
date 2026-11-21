@@ -1,0 +1,302 @@
+{
+  "labels": {
+    "Always": "总是",
+    "Answer question automatically": "自动答题",
+    "Auto-play next question": "自动播放下一题",
+    "BPM": "速度 BPM",
+    "Cancel": "取消",
+    "Every New Key": "每次换新调",
+    "Got It": "知道了",
+    "Help": "帮助",
+    "Learn Mode": "学习模式",
+    "Long-press a button to see more options": "长按按钮查看更多选项",
+    "Next": "下一题",
+    "Only on repeat": "仅重放时",
+    "Play Cadence": "播放终止式",
+    "Repeat": "重放",
+    "Reset": "重置",
+    "Reset statistics": "重置统计",
+    "Reveal answer after first mistake": "第一次答错就显示答案",
+    "Sound": "音色",
+    "Diatonic": "调内",
+    "Melodic": "旋律",
+    "Harmonic": "和声",
+    "Display": "显示方式",
+    "Numbers": "数字",
+    "Movable-Do": "可移动 Do",
+    "Range": "音域",
+    "High": "高",
+    "Middle": "中",
+    "Bass": "低音",
+    "Soprano": "高音",
+    "Triad": "三和弦",
+    "Seventh": "七和弦",
+    "Arpeggiate Speed": "琶音速度",
+    "Play Root After Correct Answer": "答对后播放根音",
+    "Arpeggio Direction": "琶音方向",
+    "Ascending": "上行",
+    "Descending": "下行",
+    "Ascending & Descending": "上行再下行",
+    "Descending & Ascending": "下行再上行",
+    "Random": "随机",
+    "Smooth": "平滑",
+    "1st Inversion": "第一转位",
+    "2nd Inversion": "第二转位",
+    "Drone": "持续低音",
+    "Off": "关",
+    "Analyze By": "分析依据",
+    "i iv V i (Minor)": "i iv V i（小调）",
+    "vi ii III vi (Relative Minor)": "vi ii III vi（关系小调）",
+    "I IV V I (Major)": "I IV V I（大调）",
+    "Included": "包含",
+    "Key": "调",
+    "Change key": "换调",
+    "Never": "从不",
+    "Every Question": "每道题",
+    "Every 5 Questions": "每 5 道题",
+    "Every 10 Questions": "每 10 道题",
+    "Every 20 Questions": "每 20 道题",
+    "Always Relative Major": "始终按关系大调",
+    "Minor -> Relative Major": "小调 → 关系大调",
+    "Included Chords": "包含的和弦",
+    "Included Chords (Advanced)": "包含的和弦（高级）",
+    "Included Positions (top voices)": "包含的位置（顶部声部）",
+    "Included Progressions": "包含的和弦进行",
+    "Included Types": "包含的类型",
+    "Interval Type": "音程类型",
+    "Include Bass": "包含低音",
+    "Number of voices": "声部数",
+    "Play Wrong Answer": "播放错误答案",
+    "Root Position": "原位",
+    "Simplify Extensions": "简化扩展音",
+    "True Tonic": "真实主音",
+    "Voice Leading": "声部进行",
+    "Voice Mode": "声部模式",
+    "Cadence Type": "终止式类型",
+    "Chord Types": "和弦类型",
+    "Harmony Mode": "和声模式",
+    "Contra Bass": "超低音",
+    "Major Tonic (1st)": "大调主音（1 级）",
+    "Dorian Tonic (2nd)": "多利亚主音（2 级）",
+    "Phrygian Tonic (3rd)": "弗里几亚主音（3 级）",
+    "Lydian Tonic (4th)": "利底亚主音（4 级）",
+    "Mixolydian Tonic (5th)": "混合利底亚主音（5 级）",
+    "Minor Tonic (6th)": "小调主音（6 级）",
+    "Locrian Tonic (7th)": "洛克里亚主音（7 级）",
+    "Chord Functions": "和弦功能",
+    "Chord Progressions In Real Songs": "真实歌曲的和弦进行",
+    "Common Progressions": "常见和弦进行",
+    "Chord in Key": "调内和弦",
+    "Harmonic Intervals": "和声音程",
+    "Intervals": "音程",
+    "Notes With Chords": "和弦中的音",
+    "Scale Degrees": "音级",
+    "Scales and scale degrees": "音阶与音级",
+    "Triad Inversions": "三和弦转位",
+    "Triads & Roman Numerals": "三和弦与罗马数字",
+    "List of Chord Types:": "和弦类型一览：",
+    "List of Intervals:": "音程一览：",
+    "Andalusian Cadence": "安达卢西亚终止",
+    "Blues Cadence": "布鲁斯终止",
+    "Classical Cadence": "古典终止",
+    "Doo-Wop (IV-rotation)": "Doo-Wop（IV 级循环）",
+    "Doo-Wop / 50s": "Doo-Wop / 50 年代",
+    "Dorian Vamp": "多利亚循环",
+    "Axis": "轴心进行",
+    "Axis (optimistic)": "轴心进行（乐观）",
+    "Axis (Pessimistic)": "轴心进行（悲观）",
+    "Circle": "循环进行"
+  },
+  "texts": {
+    "About OpenEar": "关于 OpenEar",
+    "Contribution": "参与贡献",
+    "Feedback": "反馈",
+    "Alternatively you can": "或者你也可以",
+    "open issues": "开 issue",
+    "our github page": "我们的 GitHub 页面",
+    "readme": "readme",
+    "write an email": "写邮件",
+    "to get started.": "开始上手。",
+    "list.": "列表。",
+    "To report bugs or request features please visit": "反馈 bug 或提功能需求请访问",
+    "is a free and open-source application for musical hearing training. It contains many useful and effective exercises anyone can do on the go, which do not exist in any other app. This app is under constant development and new features and exercises are still being added to it.":
+      "是一个免费开源的听力训练应用，里面有很多随时随地能做的练习，这些练习在其他 App 里都找不到。它在持续开发中，新功能和练习还在不断增加。",
+    "If you have some basic programming skills, you can contribute your time by expanding the app features! Any contribution is very much welcome. Check out this":
+      "如果你有一点编程基础，可以帮忙扩展这个 App 的功能！非常欢迎任何形式的贡献。先看这份",
+    "Don't know what to contribute? Have a quick look at our": "不知道能贡献什么？先看看我们的",
+    "Nice! Let's go": "好，开始吧",
+    "Play": "播放",
+    "Sandbox": "练习场",
+    "Ooops... something went wrong! If this persists, please report a bug. Details:":
+      "哎呀，出错了！如果一直这样，请反馈 bug。详情：",
+    "open an issue in Github": "在 GitHub 上开 issue",
+    "create a pull request": "提交 pull request",
+    "Tip!": "提示",
+    "Tip! Major chords tend to sound \"brighter\" and minor chords tend to sound \"darker\".":
+      "提示！大和弦听起来「亮」，小和弦听起来「暗」。",
+    "Note!": "注意",
+    "Root position": "原位",
+    "First inversion": "第一转位",
+    "Second inversion": "第二转位",
+    "Extensions and Inversions": "扩展音与转位",
+    "Here are the possible inversions:": "可能的转位有这几种：",
+    "Inversions are notated with a slash symbol followed by the scale degree of the bass note. For example:":
+      "转位用斜杠加低音的音级来记。例如：",
+    "An inversion is the order of which the chord notes are played (from lowest to highest).":
+      "转位指和弦各音从低到高的排列顺序。",
+    "Extensions are notated like in Jazz. For example:": "扩展音的记法跟爵士一样，例如：",
+    "This app uses a": "本 App 采用一套",
+    "unique notation for slash chords": "独特的斜杠和弦记法",
+    "The roman numeral analysis method was invented mainly with classical music in mind, so it's not very good in conveying more complex chords that can be found in modern music like Jazz. To accommodate for this, this app uses a unique convention for notating extensions and inversions, that is borrowed from jazz.":
+      "罗马数字分析法最初是为古典音乐设计的，碰上爵士这类现代音乐里的复杂和弦就不够用了。为此本 App 采用了一套从爵士借来的记法来表示扩展音和转位。",
+    "Triadic chords are chords built from 3 notes using thirds.": "三和弦是用三度叠置起来的三个音构成的和弦。",
+    "For example, in the key of C major, we can form this chord:": "例如在 C 大调里可以构成这个和弦：",
+    "For example, the C major scale, consists of the following notes:": "例如 C 大调音阶由这些音组成：",
+    "The major scale consist of 7 notes that are built from the following intervals:":
+      "大调音阶由 7 个音组成，按下面的音程结构搭建：",
+    "tone - tone - semitone - tone - tone - tone - semitone": "全音 - 全音 - 半音 - 全音 - 全音 - 全音 - 半音",
+    "Because it is built starting from the first degree (Tonic note)": "因为它是从第一级（主音）开始搭的",
+    "Each syllable represents a different": "每个唱名表示音阶里一个不同的",
+    "in the scale.": "音。",
+    "In the following exercise": "在下面的练习里",
+    "we use solfege syllables.": "我们使用唱名（do re mi）。",
+    "Because the chord sensation is dependant on the key, we use Roman numerals to indicate chords numbers in an arbitrary key.":
+      "因为和弦的感觉依赖调性，所以我们用罗马数字表示任意调里的和弦级数。",
+    "Every chord has its own sensation of tension/release. The": "每个和弦都有自己的紧张 / 释放感。",
+    "chord is most \"at rest\", and holds no tension.": "和弦最「安定」，没有张力。",
+    "has tension - it \"wants\" to move.": "带着张力，它「想要」走动。",
+    "chord feels most at rest, while the": "和弦听起来最安定，而",
+    "By default, all chords in this exercise will be": "默认这个练习里的所有和弦都是",
+    "Note that we use lower-case to indicate the minor chords (": "注意：小写字母表示小和弦（",
+    "), and dim to indicate diminished chords (": "），dim 表示减和弦（",
+    "in C major is C/E (E-C-E-G with E on the bass).": "在 C 大调里是 C/E（E-C-E-G，E 在低音）。",
+    "in C major is C6 (C-E-G-A), NOT C/E (C in first inversion)": "在 C 大调里是 C6（C-E-G-A），不是 C/E（C 的第一转位）",
+    "in C major is \"C/E\". See later for details": "在 C 大调里是「C/E」。详见后文",
+    "(Example: C E G). Also called: 5th position": "（例：C E G）也叫五音位置",
+    "(Example: E G C). Also called: Octave position": "（例：E G C）也叫八度位置",
+    "(Example: G C E). Also called: 3rd position": "（例：G C E）也叫三音位置",
+    "- 1st Degree (C in C major)": "- 第 1 级（C 大调里的 C）",
+    "- 2nd Degree (D in C major)": "- 第 2 级（C 大调里的 D）",
+    "- 3rd Degree (E in C major)": "- 第 3 级（C 大调里的 E）",
+    "- 4th Degree (F in C major)": "- 第 4 级（C 大调里的 F）",
+    "- 5th Degree (G in C major)": "- 第 5 级（C 大调里的 G）",
+    "- 6th Degree (A in C major)": "- 第 6 级（C 大调里的 A）",
+    "- 7th Degree (B in C major)": "- 第 7 级（C 大调里的 B）",
+    "Every chord has its own sensation of tension/release. The": "每个和弦都有自己的紧张 / 释放感。",
+    "The first note of the scale - also called the tonic - is the \"home\" note. The note that will feel most \"resolves\" and at \"rest\".":
+      "音阶第一个音（也叫主音）是「家」，听起来最「落地」、最「安定」。",
+    "Any other note will have a specific \"tension\" or \"sensation\" in relation to the tonic note. It might feel as if the note \"wants\" to resolve to the tonic note.":
+      "其他任何音相对主音都有特定的「张力」或「感觉」，听起来像是它「想要」解决到主音。",
+    "In the key of D however, D is the tonic, so it assumes a sensation of rest. To avoid confusion between different keys,":
+      "但在 D 调里，D 是主音，听起来就安定。为了避免不同调之间混淆，",
+    "If you're finding it hard to accomplish, try sing the note and resolve it to the nearest tonic, either above or below.":
+      "如果觉得难，试着把那个音唱出来，再解决到最近的上方或下方主音。",
+    "After getting a correct answer, the app will play a resolution of the note to the tonic, to enforce your memory and sensation of tension and release.":
+      "答对之后 App 会把该音解决到主音，帮你巩固记忆和「紧张—释放」的感觉。",
+    "In this example a group of chords will be played to let your mind feel C as the \"root note\". Then the note D will be played, listen to its sense of tension, like it wants to resolve down to C.":
+      "这个例子里会先弹一组和弦，让你的耳朵把 C 当成「主音」。然后弹 D，听它的紧张感，像是想向下解决到 C。",
+    "We can also build a triad from the 5th degree to form a 'V' (five) chord. Notice how this chord holds tension, and wants to resolve to the tonic.":
+      "也可以从第 5 级叠出三和弦，构成 V 级和弦。注意它带着张力，想要解决到主音。",
+    "(i.e. diatonic) - This is recommended as it simulates a more musical scenario where chords are not random. You can change that in the settings.":
+      "（即调内）—— 推荐这样做，更接近真实音乐场景，和弦不是随机的。可以在设置里改。",
+    "Starter with a large settings and gradually reducing can be a good way to train your ear to pick up individual notes being played harmonically":
+      "一开始选大范围、再逐步收窄，是训练耳朵捕捉和声里单个音的好办法。",
+    "In this exercise you will be given a series of chords (cadence) to establish a tonal center. Then a note (or a series of notes) will be played and you will be asked to find the scale degree of the note.":
+      "这个练习会先给你一串和弦（终止式）确立调性中心，然后播放一个音（或几个音），让你找出它是哪个音级。",
+    "In this exercise you will be given a series of chords (cadence) to establish a tonal center. Then a chord would be played, and you will be asked to pick the roman analysis (degree) of the chord in the context of the key.":
+      "这个练习会先给你一串和弦（终止式）确立调性中心，然后弹一个和弦，让你根据调内语境选出它的罗马数字级数。",
+    "If you're just starting out, it's better to practice on just a few scale degrees. Starting from Do, Re and Mi is recommended.":
+      "刚开始练时，最好只选几个音级。建议先从 Do、Re、Mi 入手。",
+    "If you're just starting out, check out the \"Arpeggiate Speed\" field in the settings.":
+      "刚开始练的话，看看设置里的「琶音速度」。",
+    "If you're just starting out, it's recommended to limit to amount of possible intervals. That can be done in the exercise settings (":
+      "刚开始练时，建议限制可选音程的数量，在练习设置里可以调（",
+    "Different notes can sound different with different chords underneath them. In this exercise you'll hear a chord with a high note emphasized, and you'll be prompted not only to identify the scale degree of the note (denoted with a solfege syllable), but also the chord degree. (Denoted with a number)":
+      "同一个音放在不同和弦上听起来不一样。这个练习会弹一个和弦并突出其中的高音，你要同时说出高音的音级（唱名）和它的和弦级数（数字）。",
+    "In this exercise you will be required to identify the type of a chord being played (Like Major vs Minor).":
+      "这个练习要求你听出所弹和弦的类型（大和弦还是小和弦）。",
+    "This exercise is most affective while practicing with the same scale degree and different chord degrees.":
+      "这个练习在「同一个音级、不同和弦级数」的搭配下练最有效。",
+    "In this exercise, you can choose from a set of predefined progressions to practice.":
+      "这个练习里可以从一组预设的和弦进行中挑来练。",
+    "In this exercise you will hear a triad in one of the three possible inversions, and you will need to identify what inversion it is.":
+      "这个练习会弹一个三和弦，它处于三种转位之一，你要听出是哪种转位。",
+    "Try to think of songs you know that use each progression.": "试着想几首你知道的、用了这条进行的歌。",
+    "Try to recall songs / melodies you know that starts which each interval.":
+      "试着回想几首以这些音程开头的歌 / 旋律。",
+    "The available progressions are one of the most popular chord progressions in popular music. If you think there is an important progression we missed, feel free to":
+      "这里提供的是流行音乐里最常用的一些和弦进行。如果你觉得漏了重要的进行，欢迎",
+    "No chord progression matching selected chords! Please select more chords. (I IV V vi will work)":
+      "所选和弦凑不出任何和弦进行！请多选几个和弦（I IV V vi 可以）。",
+    "Short click on an answer will toggle it. If an answer has a small rectangle at the bottom-right, you can long press it to select more options. When doing the exercise, a single click will select the answer displayed, and a long press and slide will enable you to select inner answers.":
+      "短按选项可以切换选中。选项右下角有小方块时，长按能展开更多选项。做题时短按选显示的那个，长按并滑动可以选到嵌套选项。",
+    "in the settings, long press the triad with the bass note that you want, a popover will open, given you options to select many other chords with the same bass note. When doing the exercise, a short click will select the default chord, while long press and slide will enable you to select others.":
+      "在设置里长按带指定低音的三和弦会弹出浮层，能选同样低音的其他和弦。做题时短按选默认和弦，长按并滑动可以选其他。",
+    "To select more complicated chords": "要选更复杂的和弦",
+    "If a song analysis doesn't work with the selected chords the application will atempt to convert the analysis to the realtive Major scale. So if you selected I IV V vi, and a progression was analyzed as i bVI bVII, it will include it as vi V IV.":
+      "如果歌曲分析用不上你选的和弦，App 会尝试转成关系大调来分析。比如你选了 I IV V vi，某段进行被分析成 i bVI bVII，就会以 vi V IV 纳入。",
+    "Removes / simplifies chord extensions when they are not necessary for the harmonic understanding of the chord, which makes it easier to focus on the core harmonic progression, rather than on hard to hear subtleties. <br>":
+      "当扩展音对理解和声不必要时，移除或简化它们，让注意力放在核心和声进行上，而不是听不出来的细节。<br>",
+    "In this exercise, you can choose from a set of predefined progressions to practice.":
+      "这个练习里可以从一组预设的和弦进行中挑来练。",
+    "The major scale consist of 7 notes that are built from the following intervals:":
+      "大调音阶由 7 个音组成，按下面的音程结构搭建：",
+    "Scales and scale degrees": "音阶与音级",
+    "In the key of C, La5 is the 6th degree (aka A) as the 5th of a chord, which happened to be the ii chord (aka Dm)":
+      "在 C 调里，La5 指第 6 级（也就是 A）作为和弦的五音，这里正好是 ii 级和弦（即 Dm）",
+    "denotes that it's the first chord (C) and /3 denotes the bass has the 3rd scale degree (E).":
+      "表示这是第一个和弦（C），/3 表示低音是三音（E）。",
+    ", which is a combination of classical roman numeral analysis and Jazz chord symbols. In that notation":
+      "，它结合了古典罗马数字分析和爵士和弦记号。在这套记法里",
+    ", and you will be required to specify the interval between them.":
+      "，你要说出这两个音之间的音程。",
+    "exercise for a basic introduction to chord progressions and Roman Analysis.":
+      "练习，作为和弦进行与罗马数字分析的入门。",
+    "it is called the": "它叫做",
+    "(Click to play)": "（点击播放）",
+    "For example:": "例如：",
+    "(one) chord": "（I 级）和弦",
+    "degree": "级",
+    "from the same key": "来自同一个调",
+    "two notes will be played": "会弹两个音",
+    "If you haven't already - check out the": "如果还没看过，先看看",
+    "But beware - the feeling of the chord also depends on context.": "但要注意，和弦的感觉也取决于上下文。",
+    ". The": "。"
+  },
+  "infos": {
+    "After correct answer was clicked the app will play a short segment of music to enforce your memory. <br>This is recommended for beginners.":
+      "点对答案后 App 会播放一小段音乐巩固记忆。<br>推荐初学者打开。",
+    "Ascending - the chord will be arpeggiated from bottom to top.": "上行 —— 和弦从低到高琶音展开。",
+    "C - all questions will be played in the key of C. <br> Random - a new key will be chosen randomly based on \"Change key\" settings":
+      "C —— 所有题目都在 C 调上。<br>随机 —— 根据「换调」设置随机选新调。",
+    "Choose how high or low the notes will be played": "选择音符的音域高低",
+    "Choose how many notes will be played simultaneously": "选择同时播放几个音",
+    "Choose how the scale degrees are noted. <br>(This setting will apply only after you close the settings page.)":
+      "选择音级的记法。<br>（关闭设置页后才会生效。）",
+    "Choose what chords will be played before the exercise to establish the key":
+      "选择练习开始前用来确立调性的和弦",
+    "Choose which intervals can be played harmonically (between voices)": "选择哪些音程可以和声演奏（声部之间）",
+    "Determines how chord progression in different modes are analyzed. <br>":
+      "决定不同调式的和弦进行如何分析。<br>",
+    "Limit the included top voices positions.": "限制包含的顶部声部位置。",
+    "Limit the types of chords that can appear in the examples.<br><br>": "限制示例里能出现的和弦类型。<br><br>",
+    "Play a drone of the tonic note of the key. Recommend for beginners to feel the tension of the scale better.":
+      "持续播放该调主音作为背景音。推荐初学者用它感受音阶张力。",
+    "Smooth: voices in the chords will move as little as possible (as usually happens in real music) <br>":
+      "平滑：各声部尽量少动（真实音乐通常如此）<br>",
+    "Use this option to specify over which scale degree each chord type can be played. Use this to narrow the options to a more musical selection of chords.":
+      "用这个选项指定每种和弦类型可以在哪个音级上演奏；用它把和弦收窄到更符合音乐习惯的范围。",
+    "When set to a value larger then zero, the chord will be arpeggiated, making it easier to pick up individual notes from it. <br>":
+      "设成大于 0 的值时，和弦以琶音形式弹出，更容易听清单个音。<br>",
+    "When to change key. <br> Never - a key is selected only once per session":
+      "何时换调。<br>从不 —— 每次会话只选一次调。",
+    "When turned off, the bass note will not be played": "关闭后不播放低音",
+    "When turned on, only chords that includes only notes from the same scale will be played. Note - some chord types (like the diminished 7ths) cannot be included in one scale.":
+      "开启后只弹完全由同一音阶内音构成的和弦。注意：有些和弦类型（如减七和弦）无法归入单个音阶。",
+    "When you click the wrong answer, it will be played immediately, as if you played the (wrong) note on your instrument.":
+      "点错答案时立刻播放它，就像在乐器上弹了那个（错的）音。",
+    "Whether two notes are played sequentially or simultaneously.": "两个音是先后演奏还是同时演奏。",
+    "With soprano mode, the note in question will be played on top.": "高音模式下目标音放在最上方。",
+    "With triad mode, the chords will be triads.": "三和弦模式下，和弦为三和弦。"
+  }
+}
