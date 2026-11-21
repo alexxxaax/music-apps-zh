@@ -1,0 +1,24 @@
+# APK 走 Releases，不进仓库（OpenEar 单个就 98MB）
+*.apk
+*.apk.idsig
+*.aab
+
+# 构建中间产物
+build/
+dist/
+*.unsigned.apk
+*-aligned-*.apk
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# Node
+node_modules/
+*.log
